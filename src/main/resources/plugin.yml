@@ -1,0 +1,8 @@
+name: TCTWrapper
+version: ${project.version}
+main: com.ryuuta0217.tctwrapper.Main
+api-version: 1.13
+depend: [Trouble_in_Crafter_Town]
+authors: [ryuuta0217]
+description: You can change TCT settings from within the game!
+prefix: TCTWrapper
